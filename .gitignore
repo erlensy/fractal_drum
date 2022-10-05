@@ -1,4 +1,6 @@
 data/
 report/
 xcode/
+build/
 assignment.pdf
+.DS_Store
